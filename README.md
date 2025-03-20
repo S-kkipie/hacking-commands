@@ -104,5 +104,3 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "username=a
 ```
 
 ---
-
-Este documento cubre comandos esenciales para escaneo, fuzzing, extracción de datos y explotación en pruebas de seguridad web. ¡Personalízalo según tus necesidades! 🚀
