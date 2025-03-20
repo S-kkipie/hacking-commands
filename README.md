@@ -1,0 +1,2 @@
+# hacking-commands
+Usefull commands
